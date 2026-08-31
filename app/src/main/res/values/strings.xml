@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZeSa07</string>
+    <string name="disclaimer_title">Legal &amp; Ethical Use Only</string>
+    <string name="disclaimer_body">ZeSa07 is a cybersecurity education app. All offensive
+        techniques operate only on simulated targets bundled in the app or on devices YOU own and
+        explicitly authorize as your local lab. Do not use this app against any network, device,
+        or account you do not own or have explicit written authorization to test. Unauthorized
+        access to computer systems is illegal in most jurisdictions.</string>
+</resources>
